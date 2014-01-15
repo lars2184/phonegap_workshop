@@ -5,14 +5,14 @@
         versionCode = "10"
         version     = "1.1.0">
  
-    <name>Employee Directory</name>
+    <name>PhoneGap Workshop</name>
  
     <description>
         A simple employee directory application
     </description>
  
-    <author href="http://coenraets.org" email="ccoenraets@gmail.com">
-        Christophe Coenraets
+    <author href="http://larsjacobson.com" email="larsjacobson@gmail.com">
+        Lars Jacobson
     </author>
  
     <feature name="http://api.phonegap.com/1.0/camera"/>
